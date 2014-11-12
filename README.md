@@ -1,4 +1,6 @@
-WSDM 2015 Tutorial: Real-Time Bidding: A New Frontier of Computational Advertising Research
+WSDM 2015 Tutorial
+
+Real-Time Bidding: A New Frontier of Computational Advertising Research
 =====================
 
 This repo holds the website for the WSDM 2015 Tutorial: Real-Time Bidding: A New Frontier of Computational Advertising Research.
