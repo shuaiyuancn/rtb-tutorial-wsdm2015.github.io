@@ -370,6 +370,12 @@ Full-Width Styles
   background: #212121;
 }
 
+.speaker_photo {
+  padding: 0px 10px 10px 0px;
+  float: left;
+  width: 150px;
+}
+
 
 
 /*******************************************************************************
