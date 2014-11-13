@@ -295,6 +295,10 @@ Full-Width Styles
 
 #header_wrap .inner {
   padding: 20px 10px 10px 10px;
+  background-image: url('../images/ucl-white.png');
+  background-repeat: no-repeat;
+  # background-attachment: fixed;
+  background-position: right bottom; 
 }
 
 #project_title {
